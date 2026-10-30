@@ -1,0 +1,10 @@
+# Generated rollback artifacts — these are per-machine output, never sources.
+rollback-*.cmd
+rollback-*.ps1
+rollback.log
+backup-*/
+_probe*
+
+# Packaging output
+*.zip
+dist/
